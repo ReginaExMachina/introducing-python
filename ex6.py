@@ -1,3 +1,4 @@
+# Inserting integers and strings into strings
 x = "There are %d types of people." % 10
 binary = "binary"
 do_not = "don't" 
@@ -9,6 +10,7 @@ print(y)
 print("I said: %r.") % x
 print("I also said: '%s'.") % y
 
+# See above
 hilarious = False
 joke_eval = "Isn't that joke so funny? %r"
 
