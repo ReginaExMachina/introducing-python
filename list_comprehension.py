@@ -1,6 +1,6 @@
-saveFiles = list()
+# List Comprehension and Manipulation
 
-husbands = []
+partners = []
 
 chars = ['Xander','Leo', 'Elise', 'Laslow', 'Niles', 'Tsubaki', 'Nishiki', 'Azura', 'Hinoka', 'Sakura', 'Jakob']
 

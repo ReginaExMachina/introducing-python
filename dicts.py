@@ -12,6 +12,8 @@ misfortune = bierce["misfortune"]
 # CONVERTING TO DICT
 
 poems = [ ['Invictus', 'Matt Damon'], ['If', 'Kipling'], ['Tyger', 'Blake'], ['Jabberwocky', 'Lewis Carrol'] ]
+
+# SORTING
 print(sorted(poems))
 
 poems_dict = dict(sorted(poems))
